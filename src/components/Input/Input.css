@@ -26,8 +26,10 @@ button{
 .added_task {
     flex: 1;
     border-right: 1px solid black;
+    margin: 5px;
 }
 
 .completed_task {
     flex: 1;
+    margin: 5px;
 }
