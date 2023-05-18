@@ -4,7 +4,7 @@ function Todo(props) {
   return (
     <div>
       {props.taskName}
-      <button>Complete</button>
+      <button onClick={() => props.handleComplete(props.id)}>Complete</button>
       <button onClick={() => props.handleDelete(props.id)}>X</button>
 
     </div>
