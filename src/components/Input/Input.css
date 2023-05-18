@@ -1,0 +1,13 @@
+.input_bar{
+    width: 40%;
+    height: 30px;
+    border-radius: 10px;
+    border-width: 2px;
+    margin: 10px;
+}
+button{
+    height: 30px;
+    border-radius: 10px;
+    border-width: 2px;
+    margin: 10px;
+}

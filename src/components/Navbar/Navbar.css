@@ -1,0 +1,24 @@
+.todo_main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    background-color: blue;
+    height: 50px;
+}
+.left_side{
+    margin-left: 30px;
+    width: 50%;
+    display: flex;
+    align-items: flex-start;
+}
+.right_side{
+    margin-right: 20px;
+    width: 50%;
+    height: 50px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
